@@ -31,7 +31,7 @@ starlette
 uvicorn
 ```
 
-For development requirements see [Contributing Guidelines](https://github.com/preprocessy/preprocessy/blob/master/CONTRIBUTING.md)
+For development requirements see [Contributing Guidelines](https://github.com/Saif807380/fastapi-starter-template/blob/main/CONTRIBUTING.md)
 
 ## Quick Setup
 
@@ -162,7 +162,7 @@ You can add your helper functions to `helpers` directory.
 
 ## Contributing
 
-Please read the [Contributing Guide](https://github.com/preprocessy/preprocessy/blob/master/CONTRIBUTING.md) before submitting a Pull Request to the project.
+Please read the [Contributing Guide](https://github.com/Saif807380/fastapi-starter-template/blob/main/CONTRIBUTING.md) before submitting a Pull Request to the project.
 
 ## Support
 
