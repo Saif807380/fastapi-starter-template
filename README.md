@@ -2,6 +2,13 @@
 
 # FastAPI Starter Template
 
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-sucess.svg)](https://gitHub.com/preprocessy/preprocessy/graphs/commit-activity)
+[![Issues Open](https://img.shields.io/github/issues/Saif807380/fastapi-starter-template)](https://github.com/Saif807380/fastapi-starter-template/issues)
+[![Forks](https://img.shields.io/github/forks/Saif807380/fastapi-starter-template)](https://github.com/Saif807380/fastapi-starter-template/network/members)
+[![Stars](https://img.shields.io/github/stars/Saif807380/fastapi-starter-template)](https://github.com/Saif807380/fastapi-starter-template/stargazers)
+[![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](https://github.com/Saif807380/fastapi-starter-template/issues)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
 An opinionated template that will help you get quickly setup with a FastAPI backend with minimal configuration.
 
 ## Features
