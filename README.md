@@ -1,3 +1,5 @@
+![Auto Generated Docs](https://github.com/Saif807380/fastapi-starter-template/blob/main/images/Screenshot%202021-01-23%20at%2022.25.36.png)
+
 # FastAPI Starter Template
 
 An opinionated template that will help you get quickly setup with a FastAPI backend with minimal configuration.
@@ -8,9 +10,9 @@ An opinionated template that will help you get quickly setup with a FastAPI back
 
 - Boilerplate code for user authentication
 
-- Minimal Database configuration using SQLAlchemy which supports many databases
+- Minimal Database configuration using `SQLAlchemy` which supports many databases
 
-- JWT and CORS middleware configured out of the box
+- `JWT` and `CORS` middleware configured out of the box
 
 - Testing environment using `pytest`
 
